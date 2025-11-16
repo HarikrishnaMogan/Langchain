@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+
+# Virtual environments
+venv/
+env/
+.myenv/
+myenv/
+venv311/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.o
+*.a
+*.out
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Other system files
+.DS_Store
+Thumbs.db
