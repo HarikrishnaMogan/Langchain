@@ -1,3 +1,9 @@
 langchain
 langchain_groq
 pydantic
+langchain-community
+pypdf
+wikipedia
+langchain-chroma
+langchain-huggingface
+sentence-transformers
