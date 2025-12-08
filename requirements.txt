@@ -7,3 +7,4 @@ wikipedia
 langchain-chroma
 langchain-huggingface
 sentence-transformers
+langgraph
